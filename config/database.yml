@@ -1,0 +1,6 @@
+development:
+  adapter: postgresql
+  database: etsy_shop_dev
+  encoding: utf8
+  username: postgres
+  password: postgres
